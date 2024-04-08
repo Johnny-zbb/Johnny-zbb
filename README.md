@@ -1,6 +1,7 @@
-
+<!---
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Johnny-zbb&show_icons=true&theme=radical&show_icons=true&include_all_commits=true)
-
+--->
+<img align="right" alt="Coding" width="400" src="https://gifdb.com/images/high/fast-green-stream-coding-kjuq7exuta2jv16v.gif" >
 
 
 <table style="border-collapse: collapse; width: 100%;">
