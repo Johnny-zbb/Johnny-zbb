@@ -12,11 +12,11 @@
   - 🌱 I’m currently learning PoseDetect and Cesium.js
   - 💞️ I’m looking to collaborate on develop a ML app which called "BTools" to make ML-coding easier!
   - 📫 How to reach me ? My discord account is "GIS宇宙"，my email is "unicornmail@foxmail.com"
-  - 
+
     </td>
     <td>
       
-      ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Johnny-zbb&layout=compact)
+      ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Johnny-zbb)
     
     </td>
   </tr>
