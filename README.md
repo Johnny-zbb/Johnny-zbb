@@ -1,6 +1,8 @@
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Johnny-zbb&show_icons=true&theme=gruvbox)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Johnny-zbb)
+
 - 👋 Hi, I’m @Johnny-zbb
 - 👀 I’m interested in deep learning and like to develop interesting projects
 - 🌱 I’m currently learning PoseDetect and Cesium.js
