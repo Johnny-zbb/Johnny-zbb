@@ -1,7 +1,7 @@
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Johnny-zbb&show_icons=true&theme=gruvbox)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Johnny-zbb&show_icons=true&theme=gruvbox&show_icons=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Johnny-zbb)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Johnny-zbb&layout=compact)
 
 - 👋 Hi, I’m @Johnny-zbb
 - 👀 I’m interested in deep learning and like to develop interesting projects
